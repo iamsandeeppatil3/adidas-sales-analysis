@@ -10,7 +10,7 @@ The dataset used for the project is freely available on Kaggle. Thus, there wasn
 
 
 ## Data Verification and Manipulation:
-
+Jupyter Notebook Link: https://www.kaggle.com/code/iamsandeeppatil3/adidas-cleaning-and-manipulation/edit/run/139080806
 
 
 ## Visualization:
