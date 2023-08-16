@@ -14,6 +14,8 @@ The dataset used for the project is freely available on Kaggle. Thus, there wasn
 
 ## Visualization:
 
+Dashboard Link: https://public.tableau.com/app/profile/sandeep.patil6475/viz/DetailedDash/SalesDash
+
 Home Dashboard:
 ![Home Dash](https://github.com/iamsandeeppatil3/adidas-sales-analysis/assets/60236271/231ffeac-25d6-4b2c-94d7-f030fe6cff49)
 
@@ -36,13 +38,13 @@ c. Product Sales by Region.
 ![Products Dash](https://github.com/iamsandeeppatil3/adidas-sales-analysis/assets/60236271/07fb9ad3-bb3f-49a0-b31e-43c1fb44b254)
 
 
-Findings and Conclusion:
+## Findings and Conclusion:
 Sales Insights:
 1. It was found that New York State makes the highest sales as well as profits, with Nebraska State comimg at the last spot in both the categories.
 2. There is an huge spike in sales and profits at the beginning of the year 2021, and the spike keeps rising throughout the year.
 
 Products Insights:
-1. Ccompared to the rise in sales of all the products in the beginning of 2021, 'Mens Street Footware' saw a highest rise.
+1. Compared to the rise in sales of all the products in the beginning of 2021, 'Mens Street Footware' saw a highest rise.
 2. Company sells most products in West region, and MidWest saw the lowest product sales.
 
 Customers Insights:
