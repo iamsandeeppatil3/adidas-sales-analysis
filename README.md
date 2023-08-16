@@ -10,7 +10,7 @@ The dataset used for the project is freely available on Kaggle. Thus, there wasn
 
 
 ## Data Verification and Manipulation:
-
+[vertopal.com_adidas-cleaning-and-manipulation.md](https://github.com/iamsandeeppatil3/adidas-sales-analysis/files/12359467/vertopal.com_adidas-cleaning-and-manipulation.md)
 
 
 ## Visualization:
